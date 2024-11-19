@@ -485,6 +485,11 @@ body:not(.user-is-tabbing) a:focus {
     /* filter: invert() brightness(4); */
 }
 
+.invert {
+    /* filter: invert(); */
+    color: white;
+}
+
 .work__code:hover {
     transform: scale(1.2);
 }
