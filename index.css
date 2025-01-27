@@ -296,7 +296,7 @@ body:not(.user-is-tabbing) a:focus {
 .link__text:focus:after {
     right: 0;
     background: var(--pink);
-    
+
 }
 
 .link__text span {
@@ -663,4 +663,9 @@ body:not(.user-is-tabbing) a:focus {
 
 .radius {
     border-radius: 22px;
+}
+
+#contact-button {
+    padding: 5px 25px;
+    border-radius: 30px;
 }
